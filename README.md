@@ -1,4 +1,4 @@
-# John Kim
+# Junghwan Kim
 
 I'm a Computer Science undergraduate at CU Boulder with a focus on systems, automation, and interaction design. I like building things that solve problems cleanly — bots, games, tools, and anything in between.
 
